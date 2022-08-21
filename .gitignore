@@ -3,6 +3,9 @@
 # GPCS4
 GPCS4/Graphics/Sce/Shaders/*.h
 
+# firmware(?)
+GPCS4/lib
+
 # GLFW
 glfw.dir/
 

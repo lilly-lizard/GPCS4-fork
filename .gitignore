@@ -3,6 +3,10 @@
 # GPCS4
 GPCS4/Graphics/Sce/Shaders/*.h
 
+# system libs
+GPCS4/lib
+GPCS4/lib-renaming
+
 # GLFW
 glfw.dir/
 
